@@ -29,6 +29,10 @@ name = "display"
 required-features = ["lcd"]
 
 [[example]]
+name = "game-of-life"
+required-features = ["lcd"]
+
+[[example]]
 name = "ferris"
 required-features = ["lcd"]
 
